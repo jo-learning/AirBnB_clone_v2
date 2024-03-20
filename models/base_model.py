@@ -24,7 +24,7 @@ class BaseModel:
             args: it won't be used
             kwargs: arguments for the constructor of the BaseModel
         Attributes:
-            id: unique id generated
+            id: unique id
             created_at: creation date
             updated_at: updated date
         """
